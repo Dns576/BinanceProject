@@ -506,7 +506,7 @@ h1::after {
 }
 
 .market-summary {
-    width: 181px;
+    width: 180px;
     background: var(--clock-face-color);
     border-radius: var(--border-radius);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
